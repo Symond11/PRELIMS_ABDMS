@@ -1,0 +1,238 @@
+
+
+
+body{
+
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}  
+
+#column{
+
+    display:flex;
+    flex-direction: 
+
+}
+
+#row{
+
+    display:flex;
+}
+
+#cat1{
+
+    background-color: blue;
+    width: 100px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 200px 1000px;
+    }
+#cat2{
+
+    background-color: black;
+    width: 100px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming2.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 1000px;
+    
+}
+#cat3{
+
+    background-color: green;
+    width: 300px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming3.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 1000px 600px;
+    
+}
+#cat4{
+
+    background-color: yellow;
+    width: 150px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming4.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 600px 520px;
+    
+    
+}
+
+#cat5{
+
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+    
+}
+#cat6{
+
+    background-color: pink;
+    width: 200px;
+    height:400px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat7{
+
+    background-color:blue;
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming6.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat8{
+
+    background-color: black
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+
+
+
+#cat9{
+
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    }
+#cat10{
+
+    background-color: black;
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming2.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat11{
+
+    background-color: green;
+    width: 300px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming3.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat12{
+
+    background-color: yellow;
+    width: 150px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming4.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+    
+}
+
+#cat13
+
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+    
+}
+#cat14{
+
+    background-color: pink;
+    width: 200px;
+    height:400px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat15{
+
+    background-color:blue;
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming6.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
+#cat16{
+
+    background-color: black
+    width: 200px;
+    height: 400px;
+    margin: 1.5px;
+    background-image: url("miming5.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 75%;
+    background-size: 120px 120px;
+    
+}
